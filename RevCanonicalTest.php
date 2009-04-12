@@ -1,4 +1,5 @@
 <?php
+
 namespace net\divbyzero\URL\Shorten;
 
 error_reporting(E_ALL);
@@ -12,6 +13,7 @@ require_once "RevCanonical.php";
  * @author    Martin Jansen <martin@divbyzero.net>
  * @copyright Martin Jansen, 2009
  * @package   net.divbyzero.URL.Shorten
+ * @license http://www.opensource.org/licenses/bsd-license.php BSD
  */
 class RevCanonicalTest extends \PHPUnit_Framework_TestCase {
     
