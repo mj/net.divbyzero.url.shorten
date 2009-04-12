@@ -8,7 +8,7 @@ namespace net\divbyzero\URL\Shorten;
  * @copyright Martin Jansen, 2009
  * @link      http://revcanonical.wordpress.com/
  * @package   net.divbyzero.URL.Shorten
- * @license http://www.opensource.org/licenses/bsd-license.php BSD
+ * @license   http://www.opensource.org/licenses/bsd-license.php BSD
  */
 class RevCanonical {
 
